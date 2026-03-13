@@ -1,0 +1,23 @@
+[theme]
+base = "dark"
+primaryColor = "#cc785c"
+backgroundColor = "#1a1a1a"
+secondaryBackgroundColor = "#2b2b2b"
+textColor = "#e8e3d9"
+
+# Make everything a bit smaller (default is 16)
+baseFontSize = 16
+
+# Main body text → Courier (very close to Courier New, hosted via Google Fonts)
+font = "Quicksand:https://fonts.googleapis.com/css2?family=Quicksand&display=swap"
+#font = "Nunito:https://fonts.googleapis.com/css2?family=Nunito&display=swap"
+#font = "monospace"
+
+# Headings → keep using a nice Google Font (example from docs)
+headingFont = "Nunito:https://fonts.googleapis.com/css2?family=Nunito&display=swap"
+
+# Code blocks & inline code → also Courier / Courier New style
+codeFont = "Courier:https://fonts.googleapis.com/css2?family=Courier&display=swap"
+
+# Optional: make code blocks a touch smaller or keep them distinct
+codeFontSize = "16px"   # or "0.9rem", etc.
